@@ -13,6 +13,7 @@ public class BitFlipper {
             System.out.println("1");
         }else{
             System.out.println("Error");
+
         }
 
     }
