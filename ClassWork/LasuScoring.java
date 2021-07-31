@@ -11,12 +11,9 @@ If score is lesser than 60, output displays F.*/
 import java.util.Scanner;
 
 public class LasuScoring{
-
     public static void main(String[]args){
-
         Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Enter a score >> ");
+        System.out.println("Enter a score in the following way. Integers only pleeeeeaaase >> ");
 
         int score = scanner.nextInt();
 
